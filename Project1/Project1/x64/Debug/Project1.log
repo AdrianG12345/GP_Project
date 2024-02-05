@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\GRAPHICS PROCESSING\Proiect\Project1\Project1\main.cpp(158,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\GRAPHICS PROCESSING\Proiect\Project1\Project1\main.cpp(159,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\GRAPHICS PROCESSING\Proiect\Project1\Project1\main.cpp(523,34): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\GRAPHICS PROCESSING\Proiect\Project1\x64\Debug\Project1.exe
